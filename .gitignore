@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+.pio/
+
+# Local runtime output from the embedded project
+picture*.jpg
+picture*.jpeg
+/vibration_data_dft.csv
+/firmware/MyCubeSat/vibration_data_dft.csv
