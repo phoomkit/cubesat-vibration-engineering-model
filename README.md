@@ -147,7 +147,7 @@ When measured data is published, it should be accompanied by enough test context
 
 ## Development history
 
-The project progressed from a polling implementation with frequent SD writes, through buffered logging, to a FreeRTOS multi-task design and the current modular source layout. This repository keeps the current modular implementation so the public codebase remains focused. See [`docs/development_history.md`](docs/development_history.md).
+The project progressed from a polling implementation with frequent SD writes, through buffered logging, to a FreeRTOS multi-task design and the current modular source layout. This repository keeps the current modular implementation so the codebase remains focused. See [`docs/development_history.md`](docs/development_history.md).
 
 ## Current limitations
 
